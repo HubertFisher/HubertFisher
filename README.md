@@ -1,14 +1,23 @@
 <div align="center">
 
-# 👋 Hi! I'm Ali Tulegenov
+# 👋 Hi, I'm Ali Tulegenov
 
-###  Java Backend developer
+### Java Backend Developer
+#### Building reliable backend services and distributed systems
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ali-tulegenov-406084282/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:at604494@gmail.com)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Hubertfisher)
 
 </div>
+
+## About Me
+
+Java backend developer focused on designing reliable APIs, database-driven services, and distributed systems.
+
+- Backend: Java, Spring Boot, Spring Cloud
+- Data: PostgreSQL, MongoDB, Redis
+- Infrastructure: Docker, Kubernetes, GitHub Actions
 
 ## 🛠 Tech Stack
 
@@ -45,7 +54,7 @@
 
 ### Distributed Systems & Networking
 
-![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge)
 ![gRPC](https://img.shields.io/badge/gRPC-244C5A?style=for-the-badge&logo=grpc&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 
